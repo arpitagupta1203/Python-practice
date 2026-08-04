@@ -1,0 +1,30 @@
+# input for string: input()
+# input for int: int(input())
+# input for float: float(input())
+
+a=input("Enter first number: ")
+b=input("Enter second number: ")
+c=input("Enter third number: ")
+d=input("Enter forth number: ")
+print(a+b)
+print(int(a)+int(b))
+print(a+c)
+print(c+d)
+
+# for integers
+f=int(input("Enter numb 1: "))
+g=int(input("Enter numb 2: "))
+print(f+g)
+print(f-g)
+print(f*g)
+print(f/g)
+print(f%g)
+
+# for float
+h=float(input("Enter numb 3: "))
+i=float(input("Etner numb 4: "))
+print(h+i)
+print(h-i)
+print(h*i)
+print(h/i)
+print(h%i)
