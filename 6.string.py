@@ -1,8 +1,5 @@
-''' In python, anything that you enclose between single or double quotation marks is considered a string. A
-string is essentially a sequence or array of textual data. Strings are used when working with Unicode
-characters.'''
-
-
+# In python, anything that you enclose between single or double quotation marks is considered a string. A
+# string is essentially a sequence or array of textual data. Strings are used when working with Unicode characters
 
 a="""Method 1: Upload the image (Recommended)
     Open MATLAB Online.
