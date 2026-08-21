@@ -56,6 +56,9 @@ print("         ")
 print("Concate: ")
 print(k+a)
 
-
-
-
+print("          ")
+print("Replacement: ")
+f=[12,34,35,7,98,54]
+print(f)
+f[0]=13
+print(f)
