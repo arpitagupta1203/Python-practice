@@ -14,3 +14,10 @@ name="Yash"
 country = "India"
 print(f"Hey! My name is {name} and I am from {country}")
 
+
+
+
+a=input("Enter a number: ")
+print(f"the multi. table of {a} is:")
+for i in range(1,11):
+    print(f"{int(a)} X {i} = {int(a)*i}")
