@@ -8,8 +8,8 @@ sum(a,b)
 
 
 def add():
-    c=int(input("Enter a:"))
-    d=int(input("Enter b:"))
+    c=int(input("Enter c:"))
+    d=int(input("Enter d:"))
     print("Addition is: ",c+d)
     
 add()
