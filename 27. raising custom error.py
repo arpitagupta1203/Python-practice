@@ -3,3 +3,19 @@ age=int(input("Enter the age: "))
 if age<8 or age>10:
     raise ValueError("you can not ride on the swing")
 
+
+
+# ---X---X---X---X---X---X---X---X---X--X---X---X---X---X---X---X---X---X---X---X---
+        
+        
+        # class CustomError(Exception) :
+        # code
+        # pass
+
+        # try:
+        # code
+
+        # except CustomError:
+        # code
+        
+
