@@ -27,4 +27,4 @@ try:
 except:
     print("Invalid syntax")
         
-print("yo! cod done..........!!tada")
+print("yo! code done..........!!tada")
