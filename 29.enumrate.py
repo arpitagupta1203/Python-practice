@@ -3,7 +3,7 @@
 # the index and value of each element in the sequence at the same time. 
 
 # ---------->
-
+print("Fruits: ")
 fruit=['apple','banana','grapes','lichi','berry','orange','melon','mango']
 for index,fruits in enumerate(fruit):
     print(index,fruits)
